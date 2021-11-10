@@ -10,7 +10,7 @@
 - It is possible to determine that there are two stocks (SPWR and FSLR) with very high liquidity as the number of shares traded in 2017 surpases 6 million.
 - Nevertheless, DQ was the stock with higher return but with less shares traded in 2017. This could tell us that the stock is not easy to trade.
 
-![All_Stocks_2017.png](Resources/All_Stocks_2017.png)
+    ![All_Stocks_2017.png](Resources/All_Stocks_2017.PNG) 
 
 ### Stocks Performance 2018:
 - 83% of the stocks had a negative return in 2018. Only ENPH and RUN had positive returns.
@@ -18,4 +18,12 @@
 - TERP had a two year consecutive negative return. 
 - On the other hand, ENPH and RUN where the only stocks who had postivie returns in both years.
 
+    ![All_Stocks_2018.png](Resources/All_Stocks_2018.PNG)
+
 ### Code's versions comparison:
+
+----------Original code time------------------------------Refactored code time----------
+
+![Code_time_2017.png](Resources/Code_time_2017.PNG)  ![Code_time_refactored_2017.png](Resources/Code_time_refactored_2017.PNG) 
+
+![Code_time_2018.png](Resources/Code_time_2018.PNG)  ![Code_time_refactored_2018.png](Resources/Code_time_refactored_2018.PNG) 
