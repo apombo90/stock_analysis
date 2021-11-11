@@ -32,5 +32,5 @@
 
 ## **Final conclusions:**
 - There are many benefits of code refactoring, it can improve the design, readability, performance, helps identifying bugs and makes it easier to collaborate. Hence, having a *cleaner* code makes it easier to understand and improve, it is always important to consider that others will read the code and that not only affects the programmer but also the final customer who's going to have a smoother experience. On the other hand, there are also disadvantages such as time and budget. Refactoring can be time consuming and can also require more resources.
-- For this project, one of the disadvantages of refactoring the code was the a
+- For this project, one of the advantages of refactoring the code was the that I was able to get all the information in one loop by creating one index that accessed all the arrays in the code i.e. the code *read* and *stored* all the values for the four arrays which gave me the option to create a separate loop to output the values that I wanted to get for the analysis. In the original code, the output was generated inside the same loop where the information was gathered which was less *efficient* and less *organized*. Finally, the only disadvantage that I found is that I had to change almost every line in the code which could lead to errors and bugs if I wasn't careful.
 
